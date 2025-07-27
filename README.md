@@ -108,3 +108,8 @@ For the application to work correctly, you need to set up the following environm
     *   **Build output directory:** `.next`
 6.  **Add Environment Variables:** Go to **Settings** > **Environment variables** and add the variables listed at the beginning of this section.
 7.  **Deploy:** Click **Save and Deploy**. Cloudflare will now build and deploy your application. You'll be given a unique `.pages.dev` URL where you can access your live site.
+
+## New Features
+
+### Auto Chaal
+The game now supports an "auto chaal" feature, allowing users to select a multiplier in a single line, and the game progresses automatically based on the selected chaal.
